@@ -68,6 +68,13 @@ const Projects = () => {
       name: "Recipe Finder",
       languages: ["HTML", "CSS", "JavaScript", "ReactJs"],
     },
+    {
+      id: 10,
+      html_url: "https://digital-journal-landing-page.onrender.com",
+      imgURL: ImagePlaceholder,
+      name: "Journal Lading Page",
+      languages: ["HTML", "CSS", "JavaScript", "TailWindCSS"],
+    },
   ]);
 
   return (
