@@ -75,6 +75,13 @@ const Projects = () => {
       name: "Journal Lading Page",
       languages: ["HTML", "CSS", "JavaScript", "TailWindCSS"],
     },
+    {
+      id: 11,
+      html_url: "https://digital-journal-landing-page.onrender.com",
+      imgURL: ImagePlaceholder,
+      name: "CheckMate - Task Manager",
+      languages: ["TailwindCSS", "ReactJs", "InstantDB","ShadCN"],
+    }
   ]);
 
   return (
