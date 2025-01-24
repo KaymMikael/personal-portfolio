@@ -77,10 +77,10 @@ const Projects = () => {
     },
     {
       id: 11,
-      html_url: "https://digital-journal-landing-page.onrender.com",
+      html_url: "https://task-manager-checkmate.netlify.app/login",
       imgURL: ImagePlaceholder,
       name: "CheckMate - Task Manager",
-      languages: ["TailwindCSS", "ReactJs", "InstantDB","ShadCN"],
+      languages: ["TailwindCSS", "ReactJs"],
     }
   ]);
 
